@@ -1,0 +1,7 @@
+		Happy journey
+
+Ticket Number:		 5197
+No of passanger: 2 
+Travel : from Andhra Pradesh to Assam
+Total distance :		2646
+Amount :		PY_VAR4
